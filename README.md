@@ -1,3 +1,3 @@
 # hello-world
 
-This isn't a punch card! But will it compile?
+Is the cake a lie?
